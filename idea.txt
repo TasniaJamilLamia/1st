@@ -1,3 +1,4 @@
 1.Write code
+1.1 Write beautiful code 
 2.Sell software
 3.Play video games
